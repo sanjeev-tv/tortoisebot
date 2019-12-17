@@ -1,0 +1,8 @@
+prefix=/home/sanjeev/tb3_ws/devel
+
+Name: open_manipulator_with_tb3_waffle_pi_moveit
+Description: Description of open_manipulator_with_tb3_waffle_pi_moveit
+Version: 1.1.0
+Cflags: 
+Libs: -L/home/sanjeev/tb3_ws/devel/lib 
+Requires: 

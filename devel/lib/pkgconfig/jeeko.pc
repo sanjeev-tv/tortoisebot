@@ -1,0 +1,8 @@
+prefix=/home/sanjeev/tb3_ws/devel
+
+Name: jeeko
+Description: Description of jeeko
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sanjeev/tb3_ws/devel/lib 
+Requires: 
